@@ -1,0 +1,4 @@
+# Ignore SQL database files
+
+*.mdf
+*.ldf
